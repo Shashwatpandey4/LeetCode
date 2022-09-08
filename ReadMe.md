@@ -9,3 +9,5 @@
 |[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)||
 |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|add the list simultaneously & use carry for big numbers|
 
+|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|first find the indexes that needs to be change, then change of those indexes as 0|
+
